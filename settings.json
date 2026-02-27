@@ -11,9 +11,10 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "MySQL_Local",
-            "username": "root",
-            "database": "sales_project",
-            "password": "Chandu1303@"
+            "username": "",
+            "database": "",
+            "password": ""
         }
     ]
+
 }
